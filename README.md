@@ -50,3 +50,15 @@ this task can also be done by running the chmod command
 
 ![image](https://github.com/user-attachments/assets/1df2be15-c3f3-40da-8408-499fa1976340)
 
+# Become root and cd into your home directory.  Then create 2 new files superman and zad in superman directory
+
+T o become a root , we need to switch as a root user by running the su command , then from that we change directory to the home directory of the root user by running the cd command and enter into the superman directory and creating superman and zad files using the touch command 
+
+![image](https://github.com/user-attachments/assets/fa0715fc-3012-48e2-990d-c4639c1be9fa)
+
+# Change ownership of zad file from root to your username
+# Change group ownership of zad from root to your username
+
+![image](https://github.com/user-attachments/assets/50276263-cd4b-4fa1-a10c-1760b2dc4054)
+
+
